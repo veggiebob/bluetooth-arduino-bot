@@ -1,3 +1,6 @@
+
+// largely copied from: https://gist.github.com/sukinull/3cc498cf468a8453e8e6
+
 // https://www.bananarobotics.com/shop/How-to-use-the-HG7881-%28L9110%29-Dual-Channel-Motor-Driver-Module
 /*
   HG7881_Motor_Driver_Example - Arduino sketch
